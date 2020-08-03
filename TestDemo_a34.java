@@ -9,8 +9,8 @@ import java.util.*;
  */
 class Node {
     public char val;
-    public Node left;//左孩子-》左子树
-    public Node right;//右孩子-》右子树
+    public Node left;//左孩子 -》左子树
+    public Node right;//右孩子 -》右子树
     public Node(char val) {
         this.val = val;
     }
