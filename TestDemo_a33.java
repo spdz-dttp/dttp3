@@ -15,7 +15,7 @@ class Node {
 }
 public class MyQueue {
     public int usedSize;
-    public Node front;//头
+    public Node front; //头
     public Node rear;//尾巴
 
     public boolean offer(int val){
